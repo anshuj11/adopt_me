@@ -26,5 +26,10 @@
   "homepage": "https://github.com/anshuj11/adopt_me#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "re": "^0.1.4",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
   }
 }
